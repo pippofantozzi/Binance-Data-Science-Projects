@@ -1,3 +1,5 @@
+#IMDB Program to Pick Movies
+
 In this project, the goal is to gather data from the IMDB movie database and use K Nearest Neighbors to help make a choice on which movie to watch. 
 The idea is that, if at some night we are feeling like watching something similar to 'Titanic', the program will give us 5 movies closest
 to relation to it.
